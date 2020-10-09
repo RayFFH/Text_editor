@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>img/about.png</file>
+        <file>img/copy-documents-option.png</file>
+        <file>img/new.png</file>
+        <file>img/paper-cutting.png</file>
+        <file>img/redo.png</file>
+        <file>img/save-as.png</file>
+        <file>img/save-file-option.png</file>
+        <file>img/undo.png</file>
+        <file>img/open-book.png</file>
+        <file>img/paste.png</file>
+    </qresource>
+</RCC>
